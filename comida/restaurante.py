@@ -27,4 +27,3 @@ class Restaurante:
             pedido.agregar_plato(plato)
             return True
         return False
-    
